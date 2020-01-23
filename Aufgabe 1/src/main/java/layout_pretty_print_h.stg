@@ -1,0 +1,1 @@
+h(number, incidence) ::= "Number of parking cars: <number> => Incidence: <incidence>"
